@@ -1,5 +1,5 @@
 <?php
 
-include_once('./dist/index.html');
+include_once('dist/index.html');
 
 ?>
